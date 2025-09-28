@@ -1,0 +1,122 @@
+{
+	"name": "Robert Wilson",
+	"role": "Backend Developer",
+	"primaryContact": "email",
+	"contact": {
+		"email": "robert.wilson@backend.dev",
+		"phone": "+1777888999",
+		"linkedin": "https://www.linkedin.com/in/robertwilson",
+		"github": "https://github.com/rwilson"
+	},
+	"coverLetter": "Backend developer with 6 years of experience building scalable server-side applications and APIs. I specialize in microservices architecture, database optimization, and system performance. My passion is creating robust, efficient backend systems that can handle high-traffic loads while maintaining data integrity.",
+	"skills": {
+		"tools": [
+			"Java",
+			"Spring Boot",
+			"Python",
+			"Django",
+			"PostgreSQL",
+			"Redis",
+			"RabbitMQ",
+			"Docker",
+			"Kubernetes",
+			"AWS"
+		],
+		"methodologies": ["Microservices", "TDD", "Domain Driven Design"],
+		"otherSkills": [
+			"API Design",
+			"Database Optimization",
+			"System Architecture",
+			"Performance Tuning",
+			"Security Implementation"
+		]
+	},
+	"summary": {
+		"profile": [
+			"Backend developer specializing in Java and Python ecosystem with strong database expertise.",
+			"Experienced in designing and implementing RESTful APIs and microservices architecture.",
+			"Focus on writing clean, maintainable code with comprehensive testing coverage."
+		],
+		"managementBackground": [
+			"Led backend development team of 5 engineers on enterprise-level projects.",
+			"Established coding standards and best practices that reduced bug reports by 60%."
+		],
+		"technicalBackground": [
+			"Expert in Java Spring Boot framework and Python Django for web development.",
+			"Strong experience with SQL and NoSQL databases, caching, and message queues."
+		]
+	},
+	"portfolio": [
+		{
+			"name": "E-commerce API Platform",
+			"url": "https://ecommerce-api.dev/",
+			"icon": "i-tabler-api"
+		},
+		{
+			"name": "Real-time Chat System",
+			"url": "https://realtime-chat-backend.com/"
+		},
+		{
+			"name": "Financial Transaction Processor",
+			"url": "https://fintech-processor.pro/",
+			"icon": "i-tabler-credit-card"
+		}
+	],
+	"education": [
+		{
+			"title": "Master of Science in Software Engineering",
+			"institution": "Carnegie Mellon University",
+			"date": "2018"
+		},
+		{
+			"title": "Oracle Java Certification",
+			"institution": "Oracle",
+			"date": "2019"
+		}
+	],
+	"experience": [
+		{
+			"company": "FinTech Solutions Corp",
+			"duration": "Feb 2022 – Present",
+			"role": "Senior Backend Developer",
+			"technologies": ["Java", "Spring Boot", "PostgreSQL", "Redis"],
+			"responsibilities": [
+				"Architected microservices handling 10M+ transactions daily with 99.99% uptime.",
+				"Optimized database queries reducing response time by 65%.",
+				"Implemented security measures and compliance standards for financial data."
+			]
+		},
+		{
+			"company": "CloudTech Systems",
+			"duration": "May 2020 – Jan 2022",
+			"role": "Backend Developer",
+			"responsibilities": [
+				"Developed RESTful APIs serving mobile and web applications.",
+				"Built automated testing suite achieving 90% code coverage.",
+				"Collaborated with DevOps team to implement CI/CD pipelines."
+			]
+		},
+		{
+			"company": "WebSolutions Ltd",
+			"duration": "Aug 2018 – Apr 2020",
+			"role": "Junior Backend Developer",
+			"responsibilities": [
+				"Maintained legacy systems and implemented new features using Java and Python.",
+				"Created database schemas and optimized queries for better performance.",
+				"Participated in code reviews and followed agile development practices."
+			]
+		}
+	],
+	"interests": [
+		"system design",
+		"cybersecurity",
+		"chess",
+		"hiking",
+		"home brewing",
+		"classical music"
+	],
+	"availability": {
+		"travel": "Limited",
+		"relocate": "No"
+	}
+}

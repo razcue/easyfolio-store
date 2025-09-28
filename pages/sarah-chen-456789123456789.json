@@ -1,0 +1,112 @@
+{
+	"name": "Sarah Chen",
+	"role": "Full Stack Developer",
+	"primaryContact": "email",
+	"contact": {
+		"email": "sarah.chen@example.com",
+		"phone": "+1987654321",
+		"linkedin": "https://www.linkedin.com/in/sarahchen",
+		"github": "https://github.com/sarahchen"
+	},
+	"coverLetter": "Passionate full stack developer with 6 years of experience building scalable web applications. I specialize in modern JavaScript frameworks and cloud architecture, with a strong focus on clean code and user experience. I thrive in collaborative environments and enjoy mentoring junior developers.",
+	"skills": {
+		"tools": [
+			"React",
+			"Node.js",
+			"Python",
+			"PostgreSQL",
+			"AWS",
+			"Docker",
+			"TypeScript",
+			"GraphQL",
+			"Redis",
+			"MongoDB"
+		],
+		"methodologies": ["Agile", "TDD", "CI/CD"],
+		"otherSkills": [
+			"System Architecture",
+			"API Design",
+			"Database Optimization",
+			"Team Leadership",
+			"Code Review"
+		]
+	},
+	"summary": {
+		"profile": [
+			"Full stack developer with expertise in both frontend and backend technologies, specializing in React and Node.js ecosystems.",
+			"Strong background in cloud architecture and DevOps practices, with experience deploying applications on AWS.",
+			"Committed to writing clean, maintainable code and following best practices in software development."
+		],
+		"managementBackground": [
+			"Led development teams of 3-5 engineers on multiple projects, ensuring code quality and delivery timelines.",
+			"Established coding standards and review processes that improved team productivity by 30%."
+		],
+		"technicalBackground": [
+			"Expert in full stack JavaScript development with React, Node.js, and modern database technologies.",
+			"Experienced in microservices architecture and containerization with Docker and Kubernetes."
+		]
+	},
+	"portfolio": [
+		{
+			"name": "E-commerce Platform",
+			"url": "https://shop-platform.dev/",
+			"icon": "i-tabler-shopping-cart"
+		},
+		{
+			"name": "Task Management App",
+			"url": "https://taskmanager.pro/"
+		},
+		{
+			"name": "Social Media Dashboard",
+			"url": "https://socialdash.io/",
+			"icon": "i-tabler-chart-line"
+		}
+	],
+	"education": [
+		{
+			"title": "Master of Science in Computer Science",
+			"institution": "Stanford University",
+			"date": "2018"
+		},
+		{
+			"title": "AWS Solutions Architect Certification",
+			"institution": "Amazon Web Services",
+			"date": "2021"
+		}
+	],
+	"experience": [
+		{
+			"company": "TechFlow Solutions",
+			"duration": "Jan 2021 – Present",
+			"role": "Senior Full Stack Developer",
+			"technologies": ["React", "Node.js", "AWS", "PostgreSQL"],
+			"responsibilities": [
+				"Architected and developed microservices-based e-commerce platform serving 100K+ users.",
+				"Led migration from monolithic architecture to cloud-native microservices, reducing costs by 40%.",
+				"Mentored junior developers and conducted technical interviews for new hires."
+			]
+		},
+		{
+			"company": "StartupLab Inc.",
+			"duration": "Mar 2019 – Dec 2020",
+			"role": "Full Stack Developer",
+			"responsibilities": [
+				"Built responsive web applications using React and Express.js.",
+				"Implemented real-time features using WebSocket and Socket.io.",
+				"Optimized application performance and implemented caching strategies."
+			]
+		}
+	],
+	"interests": [
+		"open source",
+		"machine learning",
+		"photography",
+		"hiking",
+		"cooking",
+		"tech conferences"
+	],
+	"availability": {
+		"travel": "Yes",
+		"relocate": "Yes"
+	}
+}

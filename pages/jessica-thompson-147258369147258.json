@@ -1,0 +1,122 @@
+{
+	"name": "Jessica Thompson",
+	"role": "Product Manager",
+	"primaryContact": "email",
+	"contact": {
+		"email": "jessica.thompson@productpro.com",
+		"phone": "+1666777888",
+		"linkedin": "https://www.linkedin.com/in/jessicathompson",
+		"telegram": "https://t.me/jthompson"
+	},
+	"coverLetter": "Strategic product manager with 6 years of experience driving product vision and roadmap execution. I excel at bridging the gap between business objectives and technical implementation, with a proven track record of launching successful products that delight users and drive revenue growth.",
+	"skills": {
+		"tools": [
+			"Jira",
+			"Confluence",
+			"Figma",
+			"Tableau",
+			"Google Analytics",
+			"Mixpanel",
+			"Notion",
+			"Slack",
+			"Asana",
+			"Miro"
+		],
+		"methodologies": ["Agile", "Scrum", "Design Thinking", "OKRs"],
+		"otherSkills": [
+			"Product Strategy",
+			"User Research",
+			"Data Analysis",
+			"Stakeholder Management",
+			"Go-to-Market Strategy"
+		]
+	},
+	"summary": {
+		"profile": [
+			"Product manager with expertise in B2B SaaS and consumer mobile applications.",
+			"Experienced in leading cross-functional teams through full product lifecycle.",
+			"Data-driven decision maker with strong analytical and communication skills."
+		],
+		"managementBackground": [
+			"Managed product teams of 8-12 members including designers, developers, and analysts.",
+			"Successfully launched 5 major product features resulting in 30% increase in user engagement."
+		],
+		"technicalBackground": [
+			"Strong technical background enabling effective collaboration with engineering teams.",
+			"Proficient in data analysis and user research methodologies."
+		]
+	},
+	"portfolio": [
+		{
+			"name": "SaaS Platform Redesign",
+			"url": "https://saas-redesign-case.com/",
+			"icon": "i-tabler-layout-dashboard"
+		},
+		{
+			"name": "Mobile App Launch Strategy",
+			"url": "https://mobile-launch-strategy.dev/"
+		},
+		{
+			"name": "B2B Integration Platform",
+			"url": "https://integration-platform.pro/",
+			"icon": "i-tabler-plug-connected"
+		}
+	],
+	"education": [
+		{
+			"title": "MBA in Technology Management",
+			"institution": "Northwestern Kellogg",
+			"date": "2019"
+		},
+		{
+			"title": "Bachelor of Science in Business Administration",
+			"institution": "University of Michigan",
+			"date": "2017"
+		}
+	],
+	"experience": [
+		{
+			"company": "TechSolutions Inc.",
+			"duration": "Jan 2023 – Present",
+			"role": "Senior Product Manager",
+			"technologies": ["Jira", "Tableau", "Figma", "Google Analytics"],
+			"responsibilities": [
+				"Led product strategy for flagship SaaS platform serving 10K+ enterprise customers.",
+				"Increased monthly recurring revenue by 45% through new feature launches.",
+				"Collaborated with sales and marketing teams to optimize conversion funnel."
+			]
+		},
+		{
+			"company": "StartupLaunch Co.",
+			"duration": "Mar 2021 – Dec 2022",
+			"role": "Product Manager",
+			"responsibilities": [
+				"Managed product roadmap for consumer mobile app with 1M+ downloads.",
+				"Conducted user interviews and A/B tests to validate product hypotheses.",
+				"Worked closely with design team to improve user experience and retention."
+			]
+		},
+		{
+			"company": "InnovateNow Solutions",
+			"duration": "Jun 2019 – Feb 2021",
+			"role": "Associate Product Manager",
+			"responsibilities": [
+				"Supported product launch initiatives and feature development cycles.",
+				"Analyzed user data and market trends to inform product decisions.",
+				"Created product requirements and collaborated with engineering teams."
+			]
+		}
+	],
+	"interests": [
+		"product design",
+		"user psychology",
+		"marathon running",
+		"wine tasting",
+		"travel blogging",
+		"mentoring"
+	],
+	"availability": {
+		"travel": "Yes",
+		"relocate": "Yes"
+	}
+}

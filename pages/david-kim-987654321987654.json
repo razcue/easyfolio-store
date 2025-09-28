@@ -1,0 +1,117 @@
+{
+	"name": "David Kim",
+	"role": "Mobile Developer",
+	"primaryContact": "email",
+	"contact": {
+		"email": "david.kim@mobiledev.com",
+		"phone": "+1333444555",
+		"linkedin": "https://www.linkedin.com/in/davidkim",
+		"github": "https://github.com/dkim"
+	},
+	"coverLetter": "Mobile developer with 5 years of experience creating native iOS and Android applications. I'm passionate about crafting smooth user experiences and optimizing app performance. My expertise includes both native development and cross-platform solutions using React Native and Flutter.",
+	"skills": {
+		"tools": [
+			"Swift",
+			"Kotlin",
+			"Java",
+			"React Native",
+			"Flutter",
+			"Xcode",
+			"Android Studio",
+			"Firebase",
+			"Core Data",
+			"SQLite"
+		],
+		"methodologies": ["Mobile-First Design", "Agile", "Test-Driven Development"],
+		"otherSkills": [
+			"iOS Development",
+			"Android Development",
+			"App Store Optimization",
+			"Performance Tuning",
+			"UI/UX Implementation"
+		]
+	},
+	"summary": {
+		"profile": [
+			"Mobile developer specializing in native iOS and Android app development.",
+			"Experienced in publishing apps to App Store and Google Play with 4.5+ star ratings.",
+			"Strong focus on user experience, performance optimization, and code quality."
+		],
+		"managementBackground": [
+			"Led mobile development team of 4 developers on enterprise-level projects.",
+			"Established mobile development guidelines and code review processes."
+		],
+		"technicalBackground": [
+			"Expert in Swift, Kotlin, and cross-platform frameworks like React Native.",
+			"Experience with mobile app architecture patterns and offline-first design."
+		]
+	},
+	"portfolio": [
+		{
+			"name": "Fitness Tracking App",
+			"url": "https://fitnesstrack-mobile.com/",
+			"icon": "i-tabler-activity"
+		},
+		{
+			"name": "Food Delivery App",
+			"url": "https://fooddelivery-app.dev/"
+		},
+		{
+			"name": "Meditation & Mindfulness",
+			"url": "https://mindful-mobile.com/",
+			"icon": "i-tabler-leaf"
+		},
+		{
+			"name": "Social Gaming Platform",
+			"url": "https://socialgames-mobile.io/",
+			"icon": "i-tabler-device-gamepad"
+		}
+	],
+	"education": [
+		{
+			"title": "Bachelor of Science in Computer Engineering",
+			"institution": "University of Washington",
+			"date": "2019"
+		},
+		{
+			"title": "iOS Developer Nanodegree",
+			"institution": "Udacity",
+			"date": "2020"
+		}
+	],
+	"experience": [
+		{
+			"company": "MobileFirst Studios",
+			"duration": "Apr 2022 – Present",
+			"role": "Senior Mobile Developer",
+			"technologies": ["Swift", "Kotlin", "React Native", "Firebase"],
+			"responsibilities": [
+				"Developed cross-platform apps serving 500K+ active users monthly.",
+				"Optimized app performance resulting in 40% faster load times.",
+				"Implemented push notifications and real-time messaging features."
+			]
+		},
+		{
+			"company": "AppCraft Solutions",
+			"duration": "Jul 2020 – Mar 2022",
+			"role": "Mobile Developer",
+			"responsibilities": [
+				"Built native iOS and Android apps for healthcare and fintech clients.",
+				"Integrated third-party APIs and payment processing systems.",
+				"Maintained app store presence with regular updates and bug fixes."
+			]
+		}
+	],
+	"interests": [
+		"mobile gaming",
+		"augmented reality",
+		"basketball",
+		"cooking",
+		"tech meetups",
+		"guitar playing"
+	],
+	"availability": {
+		"travel": "Limited",
+		"relocate": "No"
+	}
+}

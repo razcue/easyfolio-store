@@ -1,0 +1,112 @@
+{
+	"name": "Emily Rodriguez",
+	"role": "Data Scientist",
+	"primaryContact": "email",
+	"contact": {
+		"email": "emily.rodriguez@datascience.ai",
+		"phone": "+1222333444",
+		"linkedin": "https://www.linkedin.com/in/emilyrodriguez",
+		"github": "https://github.com/erodriguez"
+	},
+	"coverLetter": "Data scientist with 4 years of experience transforming complex data into actionable insights. I specialize in machine learning, statistical analysis, and data visualization. My passion lies in solving real-world problems through data-driven approaches and building predictive models that drive business value.",
+	"skills": {
+		"tools": [
+			"Python",
+			"R",
+			"SQL",
+			"TensorFlow",
+			"PyTorch",
+			"Scikit-learn",
+			"Pandas",
+			"NumPy",
+			"Tableau",
+			"Power BI"
+		],
+		"methodologies": ["CRISP-DM", "Agile Analytics", "A/B Testing"],
+		"otherSkills": [
+			"Machine Learning",
+			"Statistical Analysis",
+			"Data Visualization",
+			"Feature Engineering",
+			"Model Deployment"
+		]
+	},
+	"summary": {
+		"profile": [
+			"Data scientist with strong background in machine learning and statistical modeling.",
+			"Experienced in end-to-end ML pipeline development from data collection to model deployment.",
+			"Skilled in communicating complex technical concepts to non-technical stakeholders."
+		],
+		"managementBackground": [
+			"Led data science initiatives for cross-functional teams including marketing and product.",
+			"Mentored junior data analysts and established best practices for data quality and governance."
+		],
+		"technicalBackground": [
+			"Expert in Python and R for statistical analysis and machine learning model development.",
+			"Experience with big data technologies and cloud platforms for scalable data processing."
+		]
+	},
+	"portfolio": [
+		{
+			"name": "Customer Churn Prediction",
+			"url": "https://churn-model-demo.com/",
+			"icon": "i-tabler-chart-line"
+		},
+		{
+			"name": "Sales Forecasting Dashboard",
+			"url": "https://sales-forecast.ai/"
+		},
+		{
+			"name": "Recommendation Engine",
+			"url": "https://recommend-system.dev/",
+			"icon": "i-tabler-brain"
+		}
+	],
+	"education": [
+		{
+			"title": "Master of Science in Data Science",
+			"institution": "UC Berkeley",
+			"date": "2020"
+		},
+		{
+			"title": "Bachelor of Science in Mathematics",
+			"institution": "UCLA",
+			"date": "2018"
+		}
+	],
+	"experience": [
+		{
+			"company": "DataTech Analytics",
+			"duration": "Sep 2022 – Present",
+			"role": "Senior Data Scientist",
+			"technologies": ["Python", "TensorFlow", "AWS", "Tableau"],
+			"responsibilities": [
+				"Developed machine learning models that increased customer retention by 22%.",
+				"Built automated data pipelines processing 10TB+ of data daily.",
+				"Created executive dashboards providing real-time business insights."
+			]
+		},
+		{
+			"company": "InsightCorp",
+			"duration": "Jun 2020 – Aug 2022",
+			"role": "Data Scientist",
+			"responsibilities": [
+				"Implemented predictive models for demand forecasting with 95% accuracy.",
+				"Conducted A/B tests and statistical analysis to optimize marketing campaigns.",
+				"Collaborated with engineering teams to deploy models in production environments."
+			]
+		}
+	],
+	"interests": [
+		"machine learning",
+		"data visualization",
+		"yoga",
+		"painting",
+		"sustainable living",
+		"volunteer work"
+	],
+	"availability": {
+		"travel": "Yes",
+		"relocate": "Yes"
+	}
+}

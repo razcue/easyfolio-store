@@ -1,0 +1,117 @@
+{
+	"name": "Alex Martinez",
+	"role": "UX/UI Designer",
+	"primaryContact": "email",
+	"contact": {
+		"email": "alex.martinez@design.com",
+		"phone": "+1555123456",
+		"linkedin": "https://www.linkedin.com/in/alexmartinez",
+		"behance": "https://behance.net/alexmartinez"
+	},
+	"coverLetter": "Creative UX/UI designer with 5 years of experience crafting intuitive and engaging digital experiences. I believe in user-centered design and data-driven decisions to create products that users love. My expertise spans from user research to high-fidelity prototypes.",
+	"skills": {
+		"tools": [
+			"Figma",
+			"Sketch",
+			"Adobe XD",
+			"Principle",
+			"InVision",
+			"Miro",
+			"Adobe Creative Suite",
+			"Framer",
+			"HTML/CSS",
+			"JavaScript"
+		],
+		"methodologies": ["Design Thinking", "Design Sprint", "User-Centered Design"],
+		"otherSkills": [
+			"User Research",
+			"Wireframing",
+			"Prototyping",
+			"Usability Testing",
+			"Information Architecture"
+		]
+	},
+	"summary": {
+		"profile": [
+			"UX/UI designer passionate about creating meaningful and accessible digital experiences.",
+			"Experienced in end-to-end design process from user research to final implementation.",
+			"Strong advocate for inclusive design and accessibility standards."
+		],
+		"managementBackground": [
+			"Led design initiatives for cross-functional teams including developers and product managers.",
+			"Established design systems and guidelines that improved design consistency across products."
+		],
+		"technicalBackground": [
+			"Proficient in design tools and basic frontend development to ensure design feasibility.",
+			"Experience with A/B testing and analytics tools to measure design effectiveness."
+		]
+	},
+	"portfolio": [
+		{
+			"name": "Healthcare Mobile App",
+			"url": "https://healthapp-design.com/",
+			"icon": "i-tabler-heart-handshake"
+		},
+		{
+			"name": "Banking Dashboard",
+			"url": "https://bankdash-ui.com/"
+		},
+		{
+			"name": "Travel Booking Platform",
+			"url": "https://travelbook-ux.com/",
+			"icon": "i-tabler-plane"
+		},
+		{
+			"name": "Fitness Tracking App",
+			"url": "https://fitnesstrack-design.com/",
+			"icon": "i-tabler-activity"
+		}
+	],
+	"education": [
+		{
+			"title": "Bachelor of Fine Arts in Graphic Design",
+			"institution": "Art Institute of California",
+			"date": "2019"
+		},
+		{
+			"title": "Google UX Design Certificate",
+			"institution": "Coursera",
+			"date": "2020"
+		}
+	],
+	"experience": [
+		{
+			"company": "DesignHub Studio",
+			"duration": "Jun 2022 – Present",
+			"role": "Senior UX/UI Designer",
+			"technologies": ["Figma", "Adobe XD", "Principle", "Miro"],
+			"responsibilities": [
+				"Led design for 3 major product launches, resulting in 25% increase in user engagement.",
+				"Conducted user research sessions and usability testing with 100+ participants.",
+				"Created and maintained design system used across 5 different products."
+			]
+		},
+		{
+			"company": "Innovative Apps Co.",
+			"duration": "Aug 2020 – May 2022",
+			"role": "UX Designer",
+			"responsibilities": [
+				"Designed mobile and web interfaces for B2B and B2C applications.",
+				"Collaborated with product managers to define user requirements and features.",
+				"Improved app store ratings from 3.2 to 4.6 through user experience redesign."
+			]
+		}
+	],
+	"interests": [
+		"digital art",
+		"photography",
+		"travel",
+		"sustainability",
+		"meditation",
+		"cycling"
+	],
+	"availability": {
+		"travel": "Yes",
+		"relocate": "No"
+	}
+}

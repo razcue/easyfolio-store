@@ -1,0 +1,127 @@
+{
+	"name": "Amanda Foster",
+	"role": "Technical Writer",
+	"primaryContact": "email",
+	"contact": {
+		"email": "amanda.foster@techwriting.com",
+		"phone": "+1000111222",
+		"linkedin": "https://www.linkedin.com/in/amandafoster",
+		"portfolio": "https://amandafoster.dev"
+	},
+	"coverLetter": "Technical writer with 4 years of experience creating clear, user-friendly documentation for complex technical products. I specialize in API documentation, user guides, and developer resources. My goal is to bridge the gap between technical complexity and user understanding through well-structured, accessible content.",
+	"skills": {
+		"tools": [
+			"GitBook",
+			"Confluence",
+			"Markdown",
+			"Notion",
+			"Figma",
+			"Adobe Acrobat",
+			"MindMeister",
+			"Postman",
+			"Git",
+			"HTML/CSS"
+		],
+		"methodologies": ["Docs as Code", "Content Strategy", "Information Architecture"],
+		"otherSkills": [
+			"API Documentation",
+			"Technical Communication",
+			"Content Strategy",
+			"Information Design",
+			"User Experience Writing"
+		]
+	},
+	"summary": {
+		"profile": [
+			"Technical writer with expertise in creating documentation for software products and APIs.",
+			"Experienced in collaborating with engineering teams to understand complex technical concepts.",
+			"Strong focus on user-centered writing and information architecture."
+		],
+		"managementBackground": [
+			"Led documentation initiatives for product launches affecting 50K+ developers.",
+			"Established style guides and writing standards adopted across multiple teams."
+		],
+		"technicalBackground": [
+			"Proficient in documentation tools and markup languages including Markdown and HTML.",
+			"Experience with API testing tools and understanding of software development lifecycle."
+		]
+	},
+	"portfolio": [
+		{
+			"name": "API Documentation Site",
+			"url": "https://api-docs-sample.com/",
+			"icon": "i-tabler-book"
+		},
+		{
+			"name": "Developer Getting Started Guide",
+			"url": "https://dev-guide-sample.dev/"
+		},
+		{
+			"name": "Technical Blog Articles",
+			"url": "https://tech-blog-samples.com/",
+			"icon": "i-tabler-article"
+		},
+		{
+			"name": "Video Tutorial Series",
+			"url": "https://video-tutorials.pro/",
+			"icon": "i-tabler-video"
+		}
+	],
+	"education": [
+		{
+			"title": "Master of Arts in Technical Communication",
+			"institution": "University of Washington",
+			"date": "2020"
+		},
+		{
+			"title": "Bachelor of Arts in English Literature",
+			"institution": "University of Oregon",
+			"date": "2018"
+		}
+	],
+	"experience": [
+		{
+			"company": "TechDocs Solutions",
+			"duration": "Apr 2022 – Present",
+			"role": "Senior Technical Writer",
+			"technologies": ["GitBook", "Markdown", "Postman", "Figma"],
+			"responsibilities": [
+				"Created comprehensive API documentation reducing developer onboarding time by 60%.",
+				"Collaborated with product managers and engineers to document new features and updates.",
+				"Established documentation review process ensuring consistency and accuracy."
+			]
+		},
+		{
+			"company": "CloudTech Startup",
+			"duration": "May 2021 – Mar 2022",
+			"role": "Technical Writer",
+			"responsibilities": [
+				"Wrote user guides and help articles for SaaS platform with 10K+ users.",
+				"Created video tutorials and interactive guides for complex workflows.",
+				"Maintained knowledge base and FAQ sections based on user feedback."
+			]
+		},
+		{
+			"company": "DocumentPro Agency",
+			"duration": "Aug 2020 – Apr 2021",
+			"role": "Junior Technical Writer",
+			"responsibilities": [
+				"Assisted in creating technical documentation for various client projects.",
+				"Conducted user research to understand documentation needs and pain points.",
+				"Edited and proofread technical content for clarity and accuracy."
+			]
+		}
+	],
+	"interests": [
+		"content strategy",
+		"user experience",
+		"creative writing",
+		"podcasts",
+		"photography",
+		"language learning"
+	],
+	"availability": {
+		"travel": "Yes",
+		"relocate": "Limited"
+	}
+}

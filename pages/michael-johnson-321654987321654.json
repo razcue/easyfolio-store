@@ -1,0 +1,117 @@
+{
+	"name": "Michael Johnson",
+	"role": "DevOps Engineer",
+	"primaryContact": "email",
+	"contact": {
+		"email": "michael.johnson@devops.pro",
+		"phone": "+1444555666",
+		"linkedin": "https://www.linkedin.com/in/michaeljohnson",
+		"github": "https://github.com/mjohnson"
+	},
+	"coverLetter": "Experienced DevOps engineer with 7 years of expertise in building robust CI/CD pipelines and managing cloud infrastructure. I'm passionate about automation, security, and helping development teams deploy faster and more reliably. My goal is to bridge the gap between development and operations.",
+	"skills": {
+		"tools": [
+			"AWS",
+			"Docker",
+			"Kubernetes",
+			"Terraform",
+			"Jenkins",
+			"GitLab CI",
+			"Ansible",
+			"Prometheus",
+			"Grafana",
+			"ELK Stack"
+		],
+		"methodologies": ["Infrastructure as Code", "GitOps", "Site Reliability Engineering"],
+		"otherSkills": [
+			"Cloud Architecture",
+			"Monitoring & Alerting",
+			"Security Best Practices",
+			"Performance Optimization",
+			"Incident Response"
+		]
+	},
+	"summary": {
+		"profile": [
+			"DevOps engineer specializing in cloud infrastructure automation and CI/CD pipeline optimization.",
+			"Experienced in managing large-scale distributed systems with high availability requirements.",
+			"Strong advocate for Infrastructure as Code and security-first approach to DevOps."
+		],
+		"managementBackground": [
+			"Led DevOps transformation initiatives for organizations with 50+ developers.",
+			"Reduced deployment time from hours to minutes while improving reliability by 99.9%."
+		],
+		"technicalBackground": [
+			"Expert in AWS services and multi-cloud deployments with Azure and GCP.",
+			"Hands-on experience with container orchestration and microservices architecture."
+		]
+	},
+	"portfolio": [
+		{
+			"name": "Multi-Cloud Infrastructure",
+			"url": "https://cloudinfra-demo.com/",
+			"icon": "i-tabler-cloud"
+		},
+		{
+			"name": "CI/CD Pipeline Template",
+			"url": "https://github.com/mjohnson/cicd-template"
+		},
+		{
+			"name": "Monitoring Dashboard",
+			"url": "https://monitoring-demo.dev/",
+			"icon": "i-tabler-chart-dots"
+		}
+	],
+	"education": [
+		{
+			"title": "Bachelor of Science in Information Technology",
+			"institution": "Georgia Tech",
+			"date": "2017"
+		},
+		{
+			"title": "AWS Solutions Architect Professional",
+			"institution": "Amazon Web Services",
+			"date": "2022"
+		},
+		{
+			"title": "Certified Kubernetes Administrator",
+			"institution": "Cloud Native Computing Foundation",
+			"date": "2021"
+		}
+	],
+	"experience": [
+		{
+			"company": "CloudScale Systems",
+			"duration": "Mar 2021 – Present",
+			"role": "Senior DevOps Engineer",
+			"technologies": ["AWS", "Kubernetes", "Terraform", "Jenkins"],
+			"responsibilities": [
+				"Designed and implemented cloud-native architecture serving 1M+ daily users.",
+				"Reduced infrastructure costs by 35% through resource optimization and auto-scaling.",
+				"Built comprehensive monitoring and alerting systems with 99.9% uptime SLA."
+			]
+		},
+		{
+			"company": "TechCorp Solutions",
+			"duration": "Jan 2019 – Feb 2021",
+			"role": "DevOps Engineer",
+			"responsibilities": [
+				"Automated deployment processes reducing release time from 4 hours to 15 minutes.",
+				"Implemented security scanning and compliance checks in CI/CD pipelines.",
+				"Managed Kubernetes clusters and containerized legacy applications."
+			]
+		}
+	],
+	"interests": [
+		"automation",
+		"cybersecurity",
+		"rock climbing",
+		"chess",
+		"woodworking",
+		"podcasts"
+	],
+	"availability": {
+		"travel": "Limited",
+		"relocate": "No"
+	}
+}

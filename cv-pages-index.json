@@ -1,0 +1,126 @@
+{
+	"metadata": {
+		"title": "EasyFolio Hub CV Pages Index",
+		"description": "Master index of all CV/portfolio pages for testing purposes",
+		"version": "1.0.1",
+		"lastUpdated": "2025-09-28",
+		"totalPages": 11
+	},
+	"pages": [
+		{
+			"id": "john-doe-829362392736423",
+			"name": "John Doe",
+			"role": "Frontend Specialist",
+			"source": "https://github.com/razcue/easyfolio-store/blob/master/pages/john-doe-829362392736423.json",
+			"tags": ["frontend", "react", "vue", "javascript"],
+			"status": "test-only"
+		},
+		{
+			"id": "sarah-chen-456789123456789",
+			"name": "Sarah Chen",
+			"role": "Full Stack Developer",
+			"source": "https://github.com/razcue/easyfolio-store/blob/master/pages/sarah-chen-456789123456789.json",
+			"tags": ["fullstack", "react", "nodejs", "aws"],
+			"status": "test-only"
+		},
+		{
+			"id": "alex-martinez-789123456789123",
+			"name": "Alex Martinez",
+			"role": "UX/UI Designer",
+			"source": "https://github.com/razcue/easyfolio-store/blob/master/pages/alex-martinez-789123456789123.json",
+			"tags": ["design", "ux", "ui", "figma"],
+			"status": "test-only"
+		},
+		{
+			"id": "michael-johnson-321654987321654",
+			"name": "Michael Johnson",
+			"role": "DevOps Engineer",
+			"source": "https://github.com/razcue/easyfolio-store/blob/master/pages/michael-johnson-321654987321654.json",
+			"tags": ["devops", "aws", "kubernetes", "docker"],
+			"status": "test-only"
+		},
+		{
+			"id": "emily-rodriguez-654321987654321",
+			"name": "Emily Rodriguez",
+			"role": "Data Scientist",
+			"source": "https://github.com/razcue/easyfolio-store/blob/master/pages/emily-rodriguez-654321987654321.json",
+			"tags": ["datascience", "python", "machine-learning", "ai"],
+			"status": "test-only"
+		},
+		{
+			"id": "david-kim-987654321987654",
+			"name": "David Kim",
+			"role": "Mobile Developer",
+			"source": "https://github.com/razcue/easyfolio-store/blob/master/pages/david-kim-987654321987654.json",
+			"tags": ["mobile", "ios", "android", "react-native"],
+			"status": "test-only"
+		},
+		{
+			"id": "jessica-thompson-147258369147258",
+			"name": "Jessica Thompson",
+			"role": "Product Manager",
+			"source": "https://github.com/razcue/easyfolio-store/blob/master/pages/jessica-thompson-147258369147258.json",
+			"tags": ["product", "management", "strategy", "saas"],
+			"status": "test-only"
+		},
+		{
+			"id": "robert-wilson-258369147258369",
+			"name": "Robert Wilson",
+			"role": "Backend Developer",
+			"source": "https://github.com/razcue/easyfolio-store/blob/master/pages/robert-wilson-258369147258369.json",
+			"tags": ["backend", "java", "spring", "microservices"],
+			"status": "test-only"
+		},
+		{
+			"id": "lisa-chang-369147258369147",
+			"name": "Lisa Chang",
+			"role": "QA Engineer",
+			"source": "https://github.com/razcue/easyfolio-store/blob/master/pages/lisa-chang-369147258369147.json",
+			"tags": ["qa", "testing", "automation", "selenium"],
+			"status": "test-only"
+		},
+		{
+			"id": "marcus-brown-741852963741852",
+			"name": "Marcus Brown",
+			"role": "Cybersecurity Specialist",
+			"source": "https://github.com/razcue/easyfolio-store/blob/master/pages/marcus-brown-741852963741852.json",
+			"tags": ["cybersecurity", "penetration-testing", "security"],
+			"status": "test-only"
+		},
+		{
+			"id": "amanda-foster-852963741852963",
+			"name": "Amanda Foster",
+			"role": "Technical Writer",
+			"source": "https://github.com/razcue/easyfolio-store/blob/master/pages/amanda-foster-852963741852963.json",
+			"tags": ["technical-writing", "documentation", "api-docs"],
+			"status": "test-only"
+		}
+	],
+	"roleDistribution": {
+		"Frontend Specialist": 1,
+		"Full Stack Developer": 1,
+		"UX/UI Designer": 1,
+		"DevOps Engineer": 1,
+		"Data Scientist": 1,
+		"Mobile Developer": 1,
+		"Product Manager": 1,
+		"Backend Developer": 1,
+		"QA Engineer": 1,
+		"Cybersecurity Specialist": 1,
+		"Technical Writer": 1
+	},
+	"statistics": {
+		"totalProfiles": 11,
+		"testProfiles": 11,
+		"userProfiles": 0,
+		"uniqueRoles": 11,
+		"averageExperienceYears": 5.2,
+		"topSkillCategories": [
+			"JavaScript/TypeScript",
+			"Python",
+			"Cloud Platforms",
+			"Testing/QA",
+			"Design Tools"
+		]
+	}
+}

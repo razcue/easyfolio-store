@@ -1,0 +1,112 @@
+{
+	"name": "Lisa Chang",
+	"role": "QA Engineer",
+	"primaryContact": "email",
+	"contact": {
+		"email": "lisa.chang@qualityassurance.com",
+		"phone": "+1888999000",
+		"linkedin": "https://www.linkedin.com/in/lisachang",
+		"github": "https://github.com/lchang"
+	},
+	"coverLetter": "Quality Assurance engineer with 4 years of experience ensuring software quality through comprehensive testing strategies. I specialize in both manual and automated testing, with expertise in test planning, execution, and defect management. My goal is to deliver bug-free software that provides excellent user experience.",
+	"skills": {
+		"tools": [
+			"Selenium",
+			"Cypress",
+			"Jest",
+			"Postman",
+			"JMeter",
+			"TestRail",
+			"Jira",
+			"Jenkins",
+			"Git",
+			"SQL"
+		],
+		"methodologies": ["Agile Testing", "TDD", "BDD", "Risk-Based Testing"],
+		"otherSkills": [
+			"Test Automation",
+			"Manual Testing",
+			"API Testing",
+			"Performance Testing",
+			"Test Strategy"
+		]
+	},
+	"summary": {
+		"profile": [
+			"QA engineer with expertise in both manual and automated testing across web and mobile platforms.",
+			"Experienced in creating comprehensive test plans and executing various testing methodologies.",
+			"Strong analytical skills with attention to detail and commitment to software quality."
+		],
+		"managementBackground": [
+			"Led QA initiatives for multiple product releases ensuring zero critical bugs in production.",
+			"Mentored junior QA engineers and established testing best practices across teams."
+		],
+		"technicalBackground": [
+			"Proficient in test automation frameworks like Selenium and Cypress.",
+			"Experience with API testing, database testing, and performance testing tools."
+		]
+	},
+	"portfolio": [
+		{
+			"name": "Test Automation Framework",
+			"url": "https://test-automation-demo.com/",
+			"icon": "i-tabler-robot"
+		},
+		{
+			"name": "API Testing Suite",
+			"url": "https://api-testing-suite.dev/"
+		},
+		{
+			"name": "Performance Testing Results",
+			"url": "https://performance-test-results.com/",
+			"icon": "i-tabler-speedboat"
+		}
+	],
+	"education": [
+		{
+			"title": "Bachelor of Science in Computer Science",
+			"institution": "University of California, Davis",
+			"date": "2020"
+		},
+		{
+			"title": "ISTQB Foundation Level Certification",
+			"institution": "International Software Testing Qualifications Board",
+			"date": "2021"
+		}
+	],
+	"experience": [
+		{
+			"company": "QualityFirst Technologies",
+			"duration": "Oct 2022 – Present",
+			"role": "Senior QA Engineer",
+			"technologies": ["Selenium", "Cypress", "Jest", "TestRail"],
+			"responsibilities": [
+				"Developed automated test suites reducing manual testing effort by 70%.",
+				"Led testing efforts for 3 major product releases with zero production incidents.",
+				"Implemented continuous testing practices in CI/CD pipeline."
+			]
+		},
+		{
+			"company": "TestSmart Solutions",
+			"duration": "Jun 2021 – Sep 2022",
+			"role": "QA Engineer",
+			"responsibilities": [
+				"Performed manual and automated testing for web and mobile applications.",
+				"Created detailed test cases and executed regression testing suites.",
+				"Collaborated with development teams to identify and resolve defects."
+			]
+		}
+	],
+	"interests": [
+		"test automation",
+		"quality methodologies",
+		"reading",
+		"yoga",
+		"gardening",
+		"board games"
+	],
+	"availability": {
+		"travel": "Yes",
+		"relocate": "Limited"
+	}
+}
